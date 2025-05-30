@@ -1,2 +1,2 @@
 # Template
-A Clean Architecture structured template.
+Android Template with Clean Architecture
